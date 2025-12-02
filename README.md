@@ -44,9 +44,9 @@ drwxr-xr-x  10+ production-grade projects delivered
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/snehalrakas)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/snehal-rakas-752361250/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Snehalgjrakas2027)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-667eea?style=for-the-badge&logo=google-chrome&logoColor=white)](https://snehalgjrakas2027.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-667eea?style=for-the-badge&logo=google-chrome&logoColor=white)](https://snehalgjrakas2027.github.io/snehal-portfolio/#home)
 ![Profile Views](https://komarev.com/ghpvc/?username=Snehalgjrakas2027&color=667eea&style=for-the-badge)
 
 </div>
@@ -111,7 +111,7 @@ achievement_matrix = {
 
 ## 🎯 ABOUT ME
 
-I am a passionate **Computer Science and Engineering student** specializing in **Data Science** at RCOEM, with a strong academic record of **8.8/10 CGPA** and a relentless drive to transform raw data into actionable insights. My journey in technology is defined by a commitment to building scalable, reliable, and high-performance data infrastructure solutions that solve real-world problems.
+I am a passionate **Computer Science and Engineering student** specializing in **Data Science** at RCOEM, with a strong academic record and a relentless drive to transform raw data into actionable insights. My journey in technology is defined by a commitment to building scalable, reliable, and high-performance data infrastructure solutions that solve real-world problems.
 
 With expertise spanning **data processing, cloud computing, machine learning, and advanced visualization**, I have successfully delivered projects that achieved **85% forecasting accuracy** in inventory management, **30% faster trend analysis** in financial systems, and **78% efficiency improvements** in AI-powered desktop automation. My work demonstrates not just technical proficiency, but a deep understanding of how technology can create measurable business impact.
 
